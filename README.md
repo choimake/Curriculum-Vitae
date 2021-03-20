@@ -24,7 +24,7 @@ PHPおよびLaravelを利用した、要件定義～設計～実装までを1人
 #### 言語
 - PHP(3年)
 - JavaScript(3年)
-- Swift(4ヶ月)
+- Swift(4ヶ月)
 - Python(3ヶ月)
 #### フレームワーク
 - CodeIgniter 3.x(1年)

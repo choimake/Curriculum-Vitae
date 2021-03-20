@@ -401,7 +401,7 @@ PHPおよびLaravelを利用した、要件定義～設計～実装までを1人
 - MySQL
 - Memcached
 ###### 外部サービス
-- Github
+- GitHub
 ###### その他
 特になし
 

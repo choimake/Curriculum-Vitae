@@ -529,8 +529,8 @@ PHPおよびLaravelを利用した、要件定義～設計～実装までを1人
 - ビジネス実務マナー検定 3級
 
 ## 個人活動
-- zenn(https://zenn.dev/choimake)にて技術記事を執筆
-- Qiita(https://qiita.com/choimake)にて技術記事を執筆
+- zenn( https://zenn.dev/choimake )にて技術記事を執筆
+- Qiita( https://qiita.com/choimake )にて技術記事を執筆
 
 ## 賞罰
 - 平成26年度 ヒューマンアカデミー神戸校 カレッジアワード ゲームカレッジ 最優秀賞

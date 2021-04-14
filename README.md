@@ -72,14 +72,18 @@ PHPおよびLaravelを利用した、要件定義～設計～実装までを1人
 - GitLab
 - AWS
    - EC2
+   - VPC
+   - ELB
    - S3
    - Lambda
    - CloudWatch
    - AWS Amplify
      - AppSync
      - DynamoDB
+     - CloudFormation
 ###### その他
-特になし
+- Postman
+- Swagger
 
 ##### 役割/PJ規模
 ###### 役割 

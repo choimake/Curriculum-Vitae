@@ -29,6 +29,7 @@ PHPおよびLaravelを利用した、要件定義～設計～実装までを1人
 #### フレームワーク
 - CodeIgniter 3.x(1年)
 - Laravel 6.x(4ヶ月)
+- AWS Amplify(4ヶ月)
 - AWS Chalice(1ヶ月)
 #### DB
 - MySQL(3年)
@@ -37,7 +38,7 @@ PHPおよびLaravelを利用した、要件定義～設計～実装までを1人
 - Linux(4年)
 - MacOS(3年)
 - Windows(2年)
-#### Iaas
+#### IaaS
 - AWS(6ヶ月)
 
 ## 職務詳細

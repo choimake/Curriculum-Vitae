@@ -617,7 +617,9 @@ AWS・GCPなどのインフラにも関心があり、開発のみでなく開�
 -名
 
 ## 保有資格
-- Google Cloud Associate Cloud Engineer(4/5認定)
+- Google Cloud Associate Cloud Engineer(2022/4/5 認定)
+- Google Cloud Digital Leader(2022/4/11 認定)
+- Google Cloud Professional Cloud Architect(2022/8/2 認定)
 - LPIC level 1
 - ITパスポート
 - ビジネス実務文書検定 3級

@@ -669,6 +669,7 @@ AWS・GCPなどのインフラにも関心があり、開発のみでなく開�
 - Google Cloud Digital Leader( 2022/4/11 認定 )
 - Google Cloud Professional Cloud Architect( 2022/8/2 認定 )
 - Google Cloud Professional Cloud Developer( 2022/10/6 認定 )
+- Google Cloud Professional Data Engineer( 2022/10/11 認定 )
 - LPIC level 1
 - ITパスポート
 - ビジネス実務文書検定 3級

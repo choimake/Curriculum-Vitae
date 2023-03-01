@@ -1,0 +1,27 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "## 基本情報",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choimake/Curriculum-Vitae.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choimake/Curriculum-Vitae/issues"
+  },
+  "homepage": "https://github.com/choimake/Curriculum-Vitae#readme",
+  "devDependencies": {
+    "textlint": "^13.3.1"
+  },
+  "dependencies": {
+    "textlint-rule-ja-no-abusage": "^3.0.0",
+    "textlint-rule-ja-no-successive-word": "^2.0.0"
+  }
+}

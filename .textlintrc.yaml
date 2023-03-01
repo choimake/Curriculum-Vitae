@@ -1,0 +1,7 @@
+---
+
+rules:
+  # 同一の単語（厳密には形態素解析した結果のToken）が間違えて連続しているのを見つけるtextlintルール。
+  textlint-rule-ja-no-successive-word: true
+  # よくある誤用をチェックするtextlintルール
+  textlint-rule-ja-no-abusage: true

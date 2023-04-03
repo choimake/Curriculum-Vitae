@@ -612,6 +612,7 @@ SE
 - Google Cloud Professional Cloud Developer( 2022/10/6 認定 )
 - Google Cloud Professional Data Engineer( 2022/10/11 認定 )
 - Google Cloud Professional Cloud Security Engineer( 2022/11/9 認定 )
+- 3級テクニカルライティング( 2023/3/31 認定 )
 - LPIC level 1
 - ITパスポート
 - ビジネス実務文書検定 3級

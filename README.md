@@ -20,15 +20,18 @@
 ### フレームワーク
 - go-chi
 - Spring Boot
+- Laravel
 ### その他
 - Google Cloud
     - Cloud Tasks
     - Cloud Run
     - Datastore
     - Firestore
+    - Pub/Sub
 - AWS
     - AWS Amplify
 - Clean Architecture
+- OpenTelemetry
 - 採用
     - カジュアル面談担当
     - その他、採用業務管理
@@ -47,6 +50,7 @@
 - 強み
     - 雰囲気が明るい
     - 口が回る
+    - 未確定なものが多い状況でも、一定自立して動くことができる
 - 弱み
     - 突発的な事態への対処に弱い
         - なるべく事前準備を怠らないようにしている
@@ -66,6 +70,7 @@
 - 2021年10月 〜 現在: クラウドエース株式会社
     - エンジニアリングマネージャーとしての活動
     - Google Cloud認定トレーナーとしての活動
+    - 大規模POSシステムのリプレイス支援
     - 「(模擬問題付き)徹底攻略 Google Cloud認定資格 Associate Cloud Engineer教科書」執筆
     - 保険システムの開発
     - データの印刷システムのLift & Shiftのための技術支援
@@ -111,6 +116,35 @@ Google Cloudのトレーニング
 
 ##### 実績
 詳細は、ここでは差し控えさせていただきます。
+
+#### 大規模POSシステムのリプレイス支援 ( クラウドエース株式会社: 2023年12月 〜 )
+##### プロジェクト内容
+大規模POSシステムのマイクロサービス化を伴ったリプレイス支援。
+アプリチームのPL（プロジェクトリーダー）の一人として要件定義、設計、実装の支援、その他各種調整などを担当。
+
+##### 担当業務
+- 要件定義支援
+- 基本設計支援
+- 詳細設計支援
+- 実装支援
+
+##### 実績
+- 10名ほどのメンバーのマネジメント
+- PMと他PLと連携しての各種調整（お客様とのMTG含む）
+- 各種設計支援の補佐
+- オンボーディング
+
+##### 外部サービス
+- Google Cloud
+  - GKE
+  - Pub/Sub
+  - Cloud Spanner
+- OpenTelemetry
+- GitLab
+
+##### 要員数
+10名以上（案件全体の規模感は不明、推定3桁名以上）
+
 
 #### 「(模擬問題付き)徹底攻略 Google Cloud認定資格 Associate Cloud Engineer教科書」執筆 ( クラウドエース株式会社: 2023年1月 〜 2023年8月 )
 ##### プロジェクト内容
@@ -181,7 +215,7 @@ Google Cloud認定資格 Associate Cloud Engineerの試験対策用の書籍の�
 無し
 ##### 外部サービス
 - Github
-- GCP
+- Google Cloud
     - Datastore
     - Cloud Tasks
     - Cloud Run
